@@ -1,2 +1,2 @@
 # My-Store
-Simple e-commerce application 
+Simple e-commerce application having cart functionality
